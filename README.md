@@ -16,7 +16,7 @@
 Una discográfica tiene el objetivo de lanzar un nuevo artista en el escenario global, por lo que desea entender qué factores hacen que una canción sea exitosa en la actualidad. Para ello, la discográfica planteó cinco hipótesis sobre qué hace que una canción sea más escuchada. Estas hipótesis fueron confirmadas o refutadas a partir del análisis de un conjunto de datos con las 947 canciones más escuchadas en Spotify en 2023.
 
 ## Herramientas
-- SQL (BigQuery)
+- SQL (Google BigQuery)
 - Python ([Google Colab](https://colab.research.google.com/drive/1Vq0BOw6nHnrbLTKc5unCCr2E8173U8DU?usp=sharing))
 - Power BI
 
